@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "esp32-app",
+    "slug": "esp32-app",
+    "version": "1.0.0",
+    "extra": {
+      "eas": {
+        "projectId": "94c02aae-6b57-4ca1-a97d-84b294f4fe51"
+      }
+    }
+  }
+}
